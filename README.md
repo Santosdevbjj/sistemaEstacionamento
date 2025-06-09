@@ -19,4 +19,14 @@ Conhecimentos Básico(.NET, Git, GitHub);
 Computador com SO de sua preferência(Windows, Linux, Mac OS); 
 
 
+## O repositório é composto pelos seguintes arquivos: 
+
+**Readme.md:** Descrição geral do desafio 
+
+**DesafioFundamentos.md:** Como excutar o programa 
+
+**Estacionamento.cs:** Codigo em C#, com a lógica do programa e os métodos implementados de acordo com as instruções.
+
+**Program.cs:** Código em C#, que implementa um menu interativo com o usuário, para utilização eficaz do programa.
+
 
