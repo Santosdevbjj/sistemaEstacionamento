@@ -1,6 +1,6 @@
 ## Como testar este código:
 
- * Crie um novo projeto de console C# no Visual Studio ou Visual Studio Code (certifique-se de que é .NET Core ou .NET 8/9).
+ * Crie um novo projeto de console C# no Visual Studio ou Visual Studio Code 
 
  * Crie uma pasta chamada Models dentro do seu projeto.
 
